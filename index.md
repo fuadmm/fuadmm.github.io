@@ -1,3 +1,5 @@
+![Profile Photo](profile.jpg)
+
 # M. Mushtak Fuad
 
 Chittagong University Campus, SARH/R-227, Hathazari, Chittagong-4331  
