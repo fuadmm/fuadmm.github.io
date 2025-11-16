@@ -66,7 +66,7 @@
 
 ---
 
-## 📌 References
+##  References
 - **Dr. M. Monirul Islam** – Professor, University of Chittagong  
 - **Dr. Mamunur Rashid Mahib** – Associate Professor, University of Chittagong  
 - **Dr. Suman Mojumder** – Associate Professor, University of Chittagong  
