@@ -1,4 +1,4 @@
-# Mohammad Mushtak Fuad
+# M. Mushtak Fuad
 
  Chittagong University Campus, SARH/R-227, Hathazari, Chittagong-4331  
 📧 mushtakfuad@gmail.com | 📞 +8801704332114  
