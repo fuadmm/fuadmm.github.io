@@ -1,4 +1,4 @@
-![Profile Photo](profile.jpg)
+![Profile Photo](Profile_Photo.png)
 
 # M. Mushtak Fuad
 
