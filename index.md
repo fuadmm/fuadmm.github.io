@@ -1,48 +1,51 @@
 # M. Mushtak Fuad
 
- Chittagong University Campus, SARH/R-227, Hathazari, Chittagong-4331  
-📧 mushtakfuad@gmail.com | 📞 +8801704332114  
-🌐 [LinkedIn](#) | [ResearchGate](#)  
+Chittagong University Campus, SARH/R-227, Hathazari, Chittagong-4331  
+Email: mushtakfuad@gmail.com | Phone: +8801704332114  
+LinkedIn | ResearchGate  
 
 ---
 
 ## Education
-- **MSc in Biochemistry & Molecular Biology** (2025–2026, ongoing)  
+- **M.Sc. in Biochemistry & Molecular Biology** (2025–2026, ongoing)  
   Merit Scholarship, Ministry of Education, Bangladesh  
   Thesis: *Cross-Variant SARS-CoV-2 Immunity* (serological + computational analysis)
 
-- **BSc in Biochemistry & Molecular Biology** (2020–2025)  
+- **B.Sc. in Biochemistry & Molecular Biology** (2020–2025)  
   CGPA: 3.75/4.00 | Merit Scholarship, Ministry of Education  
 
 ---
 
 ## Research Experience
 - **Multivalent Anti-SARS-CoV-2 RBD Vaccine** (2023–2025)  
-  Designed trivalent RBD vaccine (Wuhan, BA.5, JN.1) in E. coli; strong cross-reactive antibody responses.
+  Designed trivalent RBD vaccine (Wuhan, BA.5, JN.1) in *E. coli*; elicited strong cross-reactive antibody responses.
 
 - **Anti-PD1 Therapy Resistance in Melanoma** (2025–present)  
-  Machine learning model integrating multi-omics data to predict resistance.
+  Developing a machine learning model integrating multi-omics data to predict therapy resistance.
 
 - **Probiotics in Obesity & Cholesterol** (2024–present)  
-  LAB strains tested in HFD-induced obese mice; serum lipid & cytokine analysis.
+  Evaluating LAB strains in HFD-induced obese mice; analyzing serum lipids and cytokines.
 
 - **Agarwood Resin Induction** (2024–present)  
-  Novel inoculum combining Fusarium spp., enzymes, and ions for faster resin production.
+  Novel inoculum combining *Fusarium* spp., enzymes, and ions for faster resin production.
 
 ---
 
 ## Skills
-**Wet Lab:** ELISA, flow cytometry, PCR/qRT-PCR, microbial assays, animal handling  
-**Computational:** R, Python, PyMOL, ChimeraX, docking, machine learning  
-**Data Analysis:** GraphPad Prism, Excel, R Markdown  
-**Other:** Experimental design, reproducibility checks, mentoring, documentation  
+- Wet Lab: ELISA, flow cytometry, PCR/qRT-PCR, microbial assays, animal handling  
+- Computational: R, Python, PyMOL, ChimeraX, docking, machine learning  
+- Data Analysis: GraphPad Prism, Excel, R Markdown  
+- Other: Experimental design, reproducibility checks, mentoring, documentation  
 
 ---
 
 ## Publications & Conferences
 - *Cross-Variant Immunity in SARS-CoV-2 Vaccinated Individuals* (manuscript in preparation)  
 - *Multivalent RBD Vaccine Development* (manuscript in preparation)  
-- Presented at **International Conference on Life Sciences 2025**, **Biotechnology in Health & Agriculture 2025**, **International Biotechnology Conference 2025**  
+- Presented at:  
+  - International Conference on Life Sciences 2025  
+  - Biotechnology in Health & Agriculture 2025  
+  - International Biotechnology Conference 2025  
 
 ---
 
@@ -66,7 +69,7 @@
 
 ---
 
-##References
-- **Dr. M. Monirul Islam** – Professor, University of Chittagong  
-- **Dr. Mamunur Rashid Mahib** – Associate Professor, University of Chittagong  
-- **Dr. Suman Mojumder** – Associate Professor, University of Chittagong  
+## References
+- Dr. M. Monirul Islam – Professor, University of Chittagong  
+- Dr. Mamunur Rashid Mahib – Associate Professor, University of Chittagong  
+- Dr. Suman Mojumder – Associate Professor, University of Chittagong  
